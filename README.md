@@ -1,4 +1,4 @@
-# Potato-Disease-Classification
+# Plant-Disease-Classification
 Title: Building a Convolutional Neural Network for Plant Disease Classification
 
 1. Introduction:
